@@ -112,7 +112,7 @@ class Game:
             self.__render_gui()
             pygame.display.flip()
 
-            self.fps_clock.tick(self.fps)
+            self.fps_clock.tick_busy_loop(self.fps)
 
     def __loading(self):
         # First run to force numba compilation
@@ -146,5 +146,5 @@ class Game:
 
 
 if __name__ == '__main__':
-    game = Game(size=(1000, 1000), fps=300, scale=1, test_mode=True)
+    game = Game(size=(160, 160), fps=120, scale=4, font_size=30, test_mode=False)
     game.run()
