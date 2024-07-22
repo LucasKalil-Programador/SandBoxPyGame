@@ -48,7 +48,7 @@ Dessa forma, cada pixel na minha tela é representado por 5 números uint8, tota
 
 #### python + numpy 320 x 320 exemplo AVG: 7 fps
 
-![python and numpy example](./gifs/python+numpy.gif)
+![python and numpy example](https://github.com/LucasKalil-Programador/sand-box-python/blob/master/gifs/python+numpy.gif)
 
 ## Solução Final
 
@@ -56,7 +56,7 @@ Recentemente, descobri a possibilidade de compilar código em tempo de execuçã
 
 #### python + numpy + numba 1000 x 1000 exemplo AVG: 120 fps
 
-![python and numpy example](./gifs/python+numpy+numba.gif)
+![python and numpy example](https://github.com/LucasKalil-Programador/sand-box-python/blob/master/gifs/python+numpy+numba.gif)
 
 # Como Executar e Instalar
 
@@ -120,7 +120,7 @@ Para ajustar as configurações básicas do jogo, abra o arquivo [main.py](./mai
 
 ### exemplo
 
-![exemplo](./gifs/example1.gif)
+![exemplo](https://github.com/LucasKalil-Programador/sand-box-python/blob/master/gifs/example1.gif)
 
 # Contribuições
 
